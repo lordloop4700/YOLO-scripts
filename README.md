@@ -6,3 +6,8 @@
 ## * makelist.py
 
 makelist가 하는 동작에 대해서 설명
+
+
+## * findobject.py
+
+findobject.py가 하는 동작에 대해서 설명
