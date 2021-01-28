@@ -110,6 +110,7 @@ def CreateFolder(directory):
 def FileCopy(filepath, dstpath):
     shutil.copy(filepath, dstpath)
 
+"""이 부분을 오버로딩 해서 쓸 수 있도록 제작"""
 def ChangeClassNum(constant): #This function can be changed from the object number used in the coco dataset to the object number you want to use. You can modify it as needed.
 
     if constant == PERSON:
